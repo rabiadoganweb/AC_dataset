@@ -79,7 +79,7 @@ df.describe()
 
 
 df_new.hist(bins=50, figsize =(20,15))
-plt.savefig('trends')
+plt.savefig('Rabıa')
 plt.show()
 
 
