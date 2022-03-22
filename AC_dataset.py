@@ -179,7 +179,7 @@ sns.lineplot(data=df, x="hour", y="AC 7")
 # In[38]:
 
 
-sns.lineplot(data=df, x="hour", y="AC 8")
+sns.lineplot(data=df, x="saat", y="AC 8")
 
 
 # In[39]:
